@@ -1,0 +1,1358 @@
+# Этот файл viminfo автоматически создан Vim 8.2.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Последний Шаблон поиска:
+~MSle0~/zsh-syntax-highlighting.zsh
+
+# Последний Замена Шаблон поиска:
+~MSle0&\/
+
+# Последняя строка для замены:
+$\.
+
+# Командная строка, история (начиная от свежего к старому):
+:wqa
+|2,0,1695976496,,"wqa"
+:qa
+|2,0,1695973647,,"qa"
+:Wqa
+|2,0,1695927923,,"Wqa"
+:q
+|2,0,1695927719,,"q"
+:q!
+|2,0,1695730498,,"q!"
+:%plugin
+|2,0,1680192710,,"%plugin"
+:wq test
+|2,0,1679308153,,"wq test"
+:wq
+|2,0,1679308143,,"wq"
+:terminal
+|2,0,1678689723,,"terminal"
+:help NERDTree
+|2,0,1678690168,,"help NERDTree"
+:tt
+|2,0,1678689924,,"tt"
+:NERDTree
+|2,0,1678689874,,"NERDTree"
+:go
+|2,0,1678689829,,"go"
+:w
+|2,0,1678638607,,"w"
+:x
+|2,0,1678377509,,"x"
+:Q
+|2,0,1678376571,,"Q"
+:.!
+|2,0,1678363431,,".!"
+:!
+|2,0,1678363427,,"!"
+:exit
+|2,0,1678363363,,"exit"
+:%s/\//\./g
+|2,0,1678217051,,"%s/\\//\\./g"
+:%s///./g
+|2,0,1678217028,,"%s///./g"
+:%s/\//\//g
+|2,0,1678216960,,"%s/\\//\\//g"
+:!wq
+|2,0,1678193113,,"!wq"
+:q!!
+|2,0,1678212535,,"q!!"
+:t
+|2,0,1678194356,,"t"
+:s
+|2,0,1678194345,,"s"
+:p
+|2,0,1678194285,,"p"
+:w .gitignore
+|2,0,1678193214,,"w .gitignore"
+:.gitignore
+|2,0,1678193200,,".gitignore"
+:!terminal
+|2,0,1678190047,,"!terminal"
+:qq!
+|2,0,1678189326,,"qq!"
+:! ls
+|2,0,1678188664,,"! ls"
+:%s/уводю/увожу/gc
+|2,0,1678185422,,"%s/уводю/увожу/gc"
+:%s/уводю/увожу/gs
+|2,0,1678185401,,"%s/уводю/увожу/gs"
+:s/уводю/увожу/g
+|2,0,1678185353,,"s/уводю/увожу/g"
+:q!~
+|2,0,1678171804,,"q!~"
+:set number
+|2,0,1678170214,,"set number"
+:wq!
+|2,0,1647607742,,"wq!"
+:vimtutor
+|2,0,1626359352,,"vimtutor"
+:help
+|2,0,1626359295,,"help"
+:numline
+|2,0,1624964287,,"numline"
+
+# Строка поиска, история (начиная от свежего к старому):
+?/zsh-syntax-highlighting.zsh
+|2,1,1680245606,47,"zsh-syntax-highlighting.zsh"
+?/plugin
+|2,1,1680192745,47,"plugin"
+?/jcb-mar
+|2,1,1678689705,47,"jcb-mar"
+?/java
+|2,1,1678689692,47,"java"
+?/jcb-mart
+|2,1,1678694220,47,"jcb-mart"
+?/jav
+|2,1,1678694199,47,"jav"
+?//
+|2,1,1678441580,47,"/"
+? \/
+|2,1,1678217051,,"\\/"
+?/app
+|2,1,1678216128,47,"app"
+??des
+|2,1,1678201520,63,"des"
+?/allows
+|2,1,1678201489,47,"allows"
+?/editor
+|2,1,1678189276,47,"editor"
+? уводю
+|2,1,1678185422,,"уводю"
+?/ошшшибка
+|2,1,1678184495,47,"ошшшибка"
+? @$
+|2,1,1624964225,,"@$"
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+@/home/dm/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week1/day0/NumberUtils.java
+|2,3,1678714850,,"/home/dm/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week1/day0/NumberUtils.java"
+@/home/dm/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week1/day0/
+|2,3,1678714821,,"/home/dm/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week1/day0/"
+@/home/dm/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week1/day0
+|2,3,1678714793,,"/home/dm/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week1/day0"
+
+# Строка отладки, история (начиная от свежего к старому):
+
+# Регистры:
+"0	LINE	0
+	text1
+|3,0,0,1,1,0,1695927604,"text1"
+"1	LINE	0
+	Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!
+	Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!
+	Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!
+	Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!
+	Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!
+|3,0,1,1,5,0,1685528506,"Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!","Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!",>157
+|<"Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!","Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!","Привет! Добро пожаловать на JavaRush - лучший сайт для тех, кто хочет стать программистом!"
+"2	LINE	0
+	elif [ "$1" == "run" ]; then
+|3,0,2,1,1,0,1679405850,"elif [ \"$1\" == \"run\" ]; then"
+"3	LINE	0
+	  GOOS=linux GOARCH=386 go build -o build/joe-x86 joe.go utils.go
+|3,0,3,1,1,0,1679385724,"  GOOS=linux GOARCH=386 go build -o build/joe-x86 joe.go utils.go"
+"4	LINE	0
+	  GOOS=linux GOARCH=amd64 go build -o build/joe joe.go utils.go
+	  printf 'joe built\n';
+|3,0,4,1,2,0,1679385714,"  GOOS=linux GOARCH=amd64 go build -o build/joe joe.go utils.go","  printf 'joe built\\n';"
+"5	LINE	0
+	  GOOS=darwin GOARCH=amd64 go build -o build/joe-darwin joe.go utils.go
+|3,0,5,1,1,0,1679385712,"  GOOS=darwin GOARCH=amd64 go build -o build/joe-darwin joe.go utils.go"
+"6	LINE	0
+	  GOOS=darwin GOARCH=386 go build -o build/joe-darwin-x86 joe.go utils.go
+|3,0,6,1,1,0,1679385712,"  GOOS=darwin GOARCH=386 go build -o build/joe-darwin-x86 joe.go utils.go"
+"7	LINE	0
+	  GOOS=windows GOARCH=amd64 go build -o build/joe.exe joe.go utils.go
+|3,0,7,1,1,0,1679385706,"  GOOS=windows GOARCH=amd64 go build -o build/joe.exe joe.go utils.go"
+"8	LINE	0
+	  GOOS=windows GOARCH=386 go build -o build/joe-x86.exe joe.go utils.go
+|3,0,8,1,1,0,1679385705,"  GOOS=windows GOARCH=386 go build -o build/joe-x86.exe joe.go utils.go"
+"9	LINE	0
+	    return result;
+|3,0,9,1,1,0,1678822266,"    return result;"
+"l	CHAR	0
+	:NERDTree				````````eeqrtyuiopp[�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kbzxcvbnm,..//�kb�kb�kbhjklasdf�kb�kb�kbgff�kb�kb�kb�kb�kb��a��a�kd�kd�kd
+|3,0,21,0,1,0,1678216688,":NERDTree				````````eeqrtyuiopp[�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kb�kbzxcvbnm,..//�kb�kb�kbhjklasdf�kb�kb�kbgff�kb�kb�kb�kb�kb��a��a�kd�kd�kd"
+""-	CHAR	0
+	t
+|3,1,36,0,1,0,1695927760,"t"
+
+# Глобальные отметки:
+'0  15  0  ~/curlScript.sh
+|4,48,15,0,1695976496,"~/curlScript.sh"
+'1  1  2  ~/yarn-error.log
+|4,49,1,2,1695973647,"~/yarn-error.log"
+'2  2  0  ~/NERD_tree_1
+|4,50,2,0,1695973256,"~/NERD_tree_1"
+'3  3  0  ~/NERD_tree_1
+|4,51,3,0,1695973256,"~/NERD_tree_1"
+'4  3  0  ~/NERD_tree_1
+|4,52,3,0,1695973256,"~/NERD_tree_1"
+'5  4  0  ~/NERD_tree_1
+|4,53,4,0,1695973256,"~/NERD_tree_1"
+'6  1  5  ~/NERD_tree_1
+|4,54,1,5,1695973068,"~/NERD_tree_1"
+'7  1  5  ~/NERD_tree_1
+|4,55,1,5,1695973068,"~/NERD_tree_1"
+'8  1  5  ~/NERD_tree_1
+|4,56,1,5,1695973068,"~/NERD_tree_1"
+'9  2  5  ~/NERD_tree_1
+|4,57,2,5,1695973068,"~/NERD_tree_1"
+
+# Список прыжков (сначала более свежие):
+-'  15  0  ~/curlScript.sh
+|4,39,15,0,1695976496,"~/curlScript.sh"
+-'  1  0  ~/curlScript.sh
+|4,39,1,0,1695973649,"~/curlScript.sh"
+-'  1  2  ~/yarn-error.log
+|4,39,1,2,1695973647,"~/yarn-error.log"
+-'  1  2  ~/yarn-error.log
+|4,39,1,2,1695973647,"~/yarn-error.log"
+-'  1  0  ~/curlScript.sh
+|4,39,1,0,1695973618,"~/curlScript.sh"
+-'  2  0  ~/NERD_tree_1
+|4,39,2,0,1695973256,"~/NERD_tree_1"
+-'  3  0  ~/NERD_tree_1
+|4,39,3,0,1695973256,"~/NERD_tree_1"
+-'  3  0  ~/NERD_tree_1
+|4,39,3,0,1695973256,"~/NERD_tree_1"
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1695973256,"~/NERD_tree_1"
+-'  34  2  ~/NERD_tree_1
+|4,39,34,2,1695973142,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1695973142,"~/NERD_tree_1"
+-'  35  2  ~/NERD_tree_1
+|4,39,35,2,1695973142,"~/NERD_tree_1"
+-'  35  2  ~/NERD_tree_1
+|4,39,35,2,1695973142,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1695973142,"~/NERD_tree_1"
+-'  36  2  ~/NERD_tree_1
+|4,39,36,2,1695973142,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1695973142,"~/NERD_tree_1"
+-'  2  5  ~/NERD_tree_1
+|4,39,2,5,1695973068,"~/NERD_tree_1"
+-'  3  5  ~/NERD_tree_1
+|4,39,3,5,1695973068,"~/NERD_tree_1"
+-'  36  2  ~/NERD_tree_1
+|4,39,36,2,1695972902,"~/NERD_tree_1"
+-'  1  7  ~/NERD_tree_1
+|4,39,1,7,1695972902,"~/NERD_tree_1"
+-'  5  0  ~/NERD_tree_2
+|4,39,5,0,1695972865,"~/NERD_tree_2"
+-'  5  0  ~/NERD_tree_2
+|4,39,5,0,1695972865,"~/NERD_tree_2"
+-'  5  0  ~/NERD_tree_2
+|4,39,5,0,1695972865,"~/NERD_tree_2"
+-'  5  0  ~/NERD_tree_2
+|4,39,5,0,1695972865,"~/NERD_tree_2"
+-'  1  0  ~/Desktop
+|4,39,1,0,1695972858,"~/Desktop"
+-'  1  0  ~/Desktop
+|4,39,1,0,1695972858,"~/Desktop"
+-'  1  0  ~/Desktop
+|4,39,1,0,1695972858,"~/Desktop"
+-'  1  0  ~/Desktop
+|4,39,1,0,1695972858,"~/Desktop"
+-'  5  0  ~/NERD_tree_1
+|4,39,5,0,1695972855,"~/NERD_tree_1"
+-'  6  0  ~/NERD_tree_1
+|4,39,6,0,1695972855,"~/NERD_tree_1"
+-'  6  0  ~/NERD_tree_1
+|4,39,6,0,1695972855,"~/NERD_tree_1"
+-'  7  0  ~/NERD_tree_1
+|4,39,7,0,1695972855,"~/NERD_tree_1"
+-'  36  2  ~/NERD_tree_1
+|4,39,36,2,1695972815,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1695972815,"~/NERD_tree_1"
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1695927934,"~/NERD_tree_1"
+-'  36  2  ~/NERD_tree_1
+|4,39,36,2,1695927932,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1695927931,"~/NERD_tree_1"
+-'  10  4  ~/file.txt
+|4,39,10,4,1695927928,"~/file.txt"
+-'  10  4  ~/file.txt
+|4,39,10,4,1695927928,"~/file.txt"
+-'  10  4  ~/file.txt
+|4,39,10,4,1695927928,"~/file.txt"
+-'  10  4  ~/file.txt
+|4,39,10,4,1695927928,"~/file.txt"
+-'  3  3  ~/file.txt
+|4,39,3,3,1695927762,"~/file.txt"
+-'  3  3  ~/file.txt
+|4,39,3,3,1695927762,"~/file.txt"
+-'  3  3  ~/file.txt
+|4,39,3,3,1695927762,"~/file.txt"
+-'  3  3  ~/file.txt
+|4,39,3,3,1695927762,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1695927689,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1695927689,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1695927689,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1695927689,"~/file.txt"
+-'  20  0  ~/file.txt
+|4,39,20,0,1695927629,"~/file.txt"
+-'  20  0  ~/file.txt
+|4,39,20,0,1695927629,"~/file.txt"
+-'  20  0  ~/file.txt
+|4,39,20,0,1695927629,"~/file.txt"
+-'  20  0  ~/file.txt
+|4,39,20,0,1695927629,"~/file.txt"
+-'  20  0  ~/file.txt
+|4,39,20,0,1695927629,"~/file.txt"
+-'  20  0  ~/file.txt
+|4,39,20,0,1695927629,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1695927574,"~/file.txt"
+-'  1  0  ~/file.txt
+|4,39,1,0,1695927574,"~/file.txt"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  1  13  /var/www/public_html/index.html
+|4,39,1,13,1695730498,"/var/www/public_html/index.html"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  500  75  ~/test/tmp/logs/access.log
+|4,39,500,75,1694530110,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+-'  1  0  ~/test/tmp/logs/access.log
+|4,39,1,0,1694530086,"~/test/tmp/logs/access.log"
+
+# История местных отметок (от более свежих к старым):
+
+> ~/curlScript.sh
+	*	1695974208	0
+	"	15	0
+
+> ~/NERD_tree_1
+	*	1695974203	0
+	"	29	0
+	.	1	0
+	+	1	0
+
+> ~/yarn-error.log
+	*	1695973646	0
+	"	1	2
+
+> ~/NERD_tree_2
+	*	1695972859	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> ~/file.txt
+	*	1695927927	0
+	"	1	0
+	^	2	0
+	.	10	4
+	+	1	5
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	3	4
+	+	4	4
+	+	5	4
+	+	6	4
+	+	7	4
+	+	8	4
+	+	9	4
+	+	10	4
+
+> /var/www/public_html/index.html
+	*	1695730493	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> /var/www/public_html/NERD_tree_1
+	*	1695730458	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/test/tmp/logs/access.log
+	*	1694530109	0
+	"	500	75
+	^	500	76
+	.	500	75
+	+	500	75
+
+> ~/test/tmp/NERD_tree_1
+	*	1694530097	0
+	"	5	0
+	.	1	0
+	+	1	0
+
+> /usr/share/vim/vim82/doc/help.txt
+	*	1685528516	0
+	"	1	0
+
+> ~/test.txt
+	*	1685528513	0
+	"	4	23
+	^	4	24
+	.	4	23
+	+	1	26
+	+	4	23
+
+> ~/.zshrc
+	*	1682534856	0
+	"	76	7
+	^	76	8
+	.	76	7
+	+	11	18
+	+	73	31
+	+	117	34
+	+	121	84
+	+	1	0
+	+	107	0
+	+	108	0
+	+	74	11
+	+	75	27
+	+	76	7
+
+> ~/java/spring-petclinic-rest/NERD_tree_1
+	*	1682534630	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/Downloads/NERD_tree_1
+	*	1680245332	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/joe/tool.sh
+	*	1679406694	0
+	"	1	0
+	^	43	0
+	.	43	0
+	+	21	0
+	+	23	0
+	+	21	0
+	+	44	0
+	+	43	0
+
+> ~/joe/NERD_tree_1
+	*	1679405647	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/test/testci/NERD_tree_1
+	*	1679308156	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/test/testci/test
+	*	1679308148	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week1/day0/NumberUtils.java
+	*	1679307414	0
+	"	130	0
+	^	3	35
+	.	3	34
+	+	1	54
+	+	6	2
+	+	130	2
+	+	130	1
+	+	130	0
+	+	130	2
+	+	129	2
+	+	122	5
+	+	130	0
+	+	123	0
+	+	6	1
+	+	123	1
+	+	12	4
+	+	11	18
+	+	27	20
+	+	6	19
+	+	9	7
+	+	6	0
+	+	24	0
+	+	26	0
+	+	8	0
+	+	23	0
+	+	24	0
+	+	18	1
+	+	19	0
+	+	7	33
+	+	20	2
+	+	22	1
+	+	21	45
+	+	20	42
+	+	3	34
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/NERD_tree_1
+	*	1679307406	0
+	"	8	0
+	.	1	0
+	+	1	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/NERD_tree_2
+	*	1678702047	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/NERD_tree_3
+	*	1678694268	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week0/day4/Numbers1.java
+	*	1678640094	0
+	"	72	4
+	^	62	27
+	.	62	26
+	+	1	54
+	+	3	23
+	+	35	0
+	+	4	41
+	+	4	1
+	+	4	35
+	+	4	4
+	+	4	3
+	+	4	23
+	+	4	18
+	+	8	3
+	+	4	2
+	+	8	54
+	+	10	1
+	+	10	26
+	+	10	22
+	+	4	42
+	+	4	1
+	+	4	0
+	+	4	40
+	+	10	38
+	+	10	21
+	+	10	0
+	+	8	53
+	+	2	0
+	+	3	53
+	+	10	0
+	+	4	2
+	+	6	1
+	+	5	18
+	+	10	0
+	+	9	10
+	+	3	0
+	+	34	1
+	+	33	3
+	+	20	0
+	+	17	3
+	+	18	3
+	+	19	2
+	+	17	2
+	+	18	2
+	+	19	2
+	+	16	31
+	+	8	0
+	+	4	0
+	+	34	2
+	+	35	2
+	+	36	2
+	+	37	2
+	+	38	2
+	+	39	2
+	+	40	2
+	+	39	2
+	+	41	2
+	+	41	6
+	+	38	0
+	+	39	5
+	+	40	4
+	+	43	2
+	+	41	2
+	+	40	4
+	+	41	3
+	+	43	3
+	+	40	3
+	+	41	3
+	+	40	3
+	+	42	3
+	+	38	5
+	+	39	7
+	+	40	5
+	+	41	3
+	+	42	3
+	+	27	5
+	+	30	0
+	+	49	47
+	+	64	5
+	+	64	30
+	+	29	0
+	+	59	61
+	+	64	34
+	+	68	29
+	+	68	4
+	+	68	3
+	+	68	0
+	+	59	63
+	+	60	32
+	+	61	4
+	+	63	3
+	+	61	15
+	+	62	29
+	+	59	21
+	+	60	25
+	+	62	26
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week0/day4/Alphabet.java
+	*	1678638403	0
+	"	14	0
+	^	14	65
+	.	14	79
+	+	1	0
+	+	2	0
+	+	1	48
+	+	4	0
+	+	20	0
+	+	4	43
+	+	5	2
+	+	9	21
+	+	6	34
+	+	7	4
+	+	8	3
+	+	7	5
+	+	6	34
+	+	7	20
+	+	5	4
+	+	5	3
+	+	5	25
+	+	5	35
+	+	5	47
+	+	6	23
+	+	7	49
+	+	10	2
+	+	9	22
+	+	10	3
+	+	12	38
+	+	13	32
+	+	13	18
+	+	15	13
+	+	17	31
+	+	3	20
+	+	20	0
+	+	3	21
+	+	5	35
+	+	13	40
+	+	17	27
+	+	5	30
+	+	13	30
+	+	1	16
+	+	5	0
+	+	6	0
+	+	5	43
+	+	6	42
+	+	5	44
+	+	7	34
+	+	13	51
+	+	14	29
+	+	15	28
+	+	14	84
+	+	15	37
+	+	14	79
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week0/day3/JavaEntryChallenge.java
+	*	1678637336	0
+	"	1	0
+	^	37	27
+	.	37	26
+	+	2	2
+	+	1	62
+	+	3	33
+	+	4	2
+	+	5	51
+	+	6	2
+	+	7	1
+	+	6	16
+	+	14	0
+	+	9	50
+	+	12	1
+	+	10	4
+	+	11	3
+	+	10	27
+	+	11	35
+	+	14	54
+	+	19	1
+	+	15	16
+	+	17	3
+	+	16	53
+	+	18	3
+	+	15	12
+	+	18	99
+	+	30	73
+	+	32	1
+	+	31	44
+	+	35	2
+	+	36	1
+	+	35	16
+	+	38	48
+	+	52	1
+	+	39	3
+	+	41	52
+	+	43	1
+	+	42	18
+	+	45	55
+	+	51	1
+	+	46	42
+	+	50	3
+	+	47	34
+	+	49	5
+	+	48	27
+	+	14	6
+	+	23	15
+	+	23	11
+	+	37	0
+	+	55	25
+	+	57	41
+	+	59	48
+	+	61	47
+	+	63	67
+	+	63	23
+	+	63	11
+	+	59	48
+	+	37	22
+	+	21	10
+	+	58	0
+	+	57	10
+	+	59	11
+	+	61	11
+	+	37	26
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/pom.xml
+	*	1678634759	0
+	"	25	0
+	^	10	64
+	.	10	64
+	+	1	64
+	+	1	38
+	+	1	18
+	+	1	46
+	+	1	12
+	+	1	0
+	+	1	3
+	+	1	1
+	+	1	4
+	+	1	0
+	+	1	27
+	+	1	7
+	+	1	1
+	+	1	3
+	+	1	5
+	+	1	22
+	+	1	3
+	+	1	1
+	+	1	0
+	+	1	30
+	+	1	31
+	+	1	0
+	+	1	44
+	+	1	0
+	+	1	32
+	+	1	8
+	+	1	0
+	+	1	1
+	+	1	3
+	+	1	1
+	+	1	3
+	+	1	5
+	+	1	7
+	+	1	1
+	+	1	2
+	+	1	1
+	+	1	5
+	+	1	8
+	+	1	1
+	+	1	2
+	+	1	4
+	+	1	6
+	+	1	4
+	+	1	1
+	+	1	2
+	+	1	1
+	+	1	4
+	+	1	2
+	+	1	1
+	+	1	38
+	+	1	9
+	+	1	0
+	+	1	77
+	+	1	3
+	+	1	32
+	+	1	38
+	+	1	9
+	+	31	9
+	+	9	28
+	+	9	0
+	+	49	14
+	+	48	0
+	+	41	0
+	+	48	0
+	+	45	70
+	+	41	23
+	+	42	37
+	+	43	19
+	+	44	39
+	+	45	81
+	+	46	18
+	+	36	8
+	+	37	5
+	+	36	2
+	+	9	0
+	+	47	33
+	+	48	83
+	+	10	3
+	+	10	94
+	+	10	3
+	+	10	87
+	+	44	38
+	+	3	21
+	+	23	0
+	+	29	19
+	+	33	54
+	+	48	36
+	+	11	3
+	+	47	28
+	+	29	21
+	+	33	0
+	+	10	81
+	+	48	22
+	+	10	90
+	+	48	26
+	+	26	4
+	+	38	3
+	+	26	0
+	+	38	0
+	+	10	64
+
+> ~/java/jdd-may-2021-kovalevskyi-academy/pom.xml
+	*	1678634673	0
+	"	113	2
+
+> ~/java/jdd-may-2021-kovalevskyi-academy/NERD_tree_1
+	*	1678634625	0
+	"	11	0
+	.	1	0
+	+	1	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/target/jcb-app-1.0.0.jar
+	*	1678453617	0
+	"	22	0
+	.	1	0
+	+	1	0
+
+> ~/.tmux.conf
+	*	1678437093	0
+	"	438	38
+	^	438	39
+	.	438	38
+	+	1	12
+	+	1	10
+	+	438	38
+
+> ~/db_book.sql
+	*	1678437055	0
+	"	1	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/README.md
+	*	1678381440	0
+	"	6	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/src/main/java/academy/kovalevskyi/codingbootcamp/week0/day2/Main.java
+	*	1678373057	0
+	"	1	0
+	.	1	8
+	+	2	67
+	+	3	12
+	+	4	42
+	+	6	1
+	+	5	42
+	+	2	0
+	+	1	8
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/.gitignore
+	*	1678347742	0
+	"	1	0
+	^	25	30
+	.	25	29
+	+	1	30
+	+	10	11
+	+	25	29
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/NERD_tree_3
+	*	1678216702	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/NERD_tree_4
+	*	1678216639	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/pox.xml
+	*	1678216520	0
+	"	78	76
+	^	78	77
+	.	78	76
+	+	23	9
+	+	5	17
+	+	5	46
+	+	7	33
+	+	6	17
+	+	5	0
+	+	7	15
+	+	8	9
+	+	10	0
+	+	23	0
+	+	13	30
+	+	13	0
+	+	6	0
+	+	7	0
+	+	6	28
+	+	8	0
+	+	9	0
+	+	8	22
+	+	13	0
+	+	14	0
+	+	12	33
+	+	23	16
+	+	14	0
+	+	15	2
+	+	16	6
+	+	17	7
+	+	18	7
+	+	19	7
+	+	20	4
+	+	21	2
+	+	22	7
+	+	85	9
+	+	78	76
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/src/main/java/src/main/java/academy/kovalevskyi/codingbootcamp/week0/day2/Main.java
+	*	1678207611	0
+	"	1	8
+	^	3	17
+	.	1	8
+	+	3	16
+	+	1	8
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/one/two/three/Main.java
+	*	1678203888	0
+	"	1	21
+	^	1	22
+	.	1	21
+	+	1	21
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/Main.java
+	*	1678203639	0
+	"	1	0
+	.	1	0
+	+	2	35
+	+	1	0
+	+	2	0
+	+	1	42
+	+	1	39
+	+	3	1
+	+	1	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/readme.txt
+	*	1678201533	0
+	"	41	0
+	^	41	0
+	.	41	0
+	+	42	0
+	+	1	0
+	+	42	0
+	+	53	650
+	+	42	1
+	+	42	0
+	+	2	35
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+	+	40	0
+	+	1	0
+	+	2	0
+	+	54	0
+	+	53	11
+	+	41	0
+	m	2	103
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/jcb-march-2023-kovalevskyi-academy.iml
+	*	1678193173	0
+	"	1	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/1/2/3/Main.java
+	*	1678193130	0
+	"	1	0
+	^	1	18
+	.	1	0
+	+	1	4
+	+	2	6
+	+	1	0
+
+> /tmp/tutor3iVc6n
+	*	1678189326	0
+	"	1	0
+	^	828	5
+	.	827	47
+	+	85	87
+	+	94	41
+	+	95	0
+	+	94	63
+	+	117	40
+	+	139	87
+	+	208	84
+	+	421	93
+	+	446	99
+	+	472	90
+	+	572	0
+	+	575	0
+	+	675	0
+	+	753	3
+	+	752	0
+	+	792	111
+	+	827	9
+	+	828	4
+	+	827	47
+
+> ~/.vimrc
+	*	1678170420	0
+	"	19	0
+	^	18	0
+	.	17	23
+	+	28	23
+	+	29	28
+	+	26	0
+	+	1	0
+	+	19	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	28	0
+	+	29	0
+	+	17	23
+	j	19	0
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/i_am_18_bytes_file
+	*	1678109072	0
+	"	1	19
+	^	1	20
+	.	1	19
+	+	1	19
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/HelloWorld.txt
+	*	1678096444	0
+	"	15	51
+	^	15	52
+	.	50	49
+	+	45	51
+	+	46	0
+	+	50	49
+
+> ~/java/jcb-march-2023-kovalevskyi-academy/test
+	*	1678096187	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~/.s3cfg
+	*	1652280239	0
+	"	1	0
+
+> ~/.vim/.vimrc
+	*	1651849607	0
+	"	6	46
+	^	6	47
+	.	6	47
+	+	6	47
+
+> /usr/bin/start-boot-harbor.sh
+	*	1647607746	0
+	"	33	26
+	^	33	27
+	.	33	27
+	+	33	28
+	+	33	48
+	+	33	27
+
+> /etc/tmux.conf
+	*	1643366093	0
+	"	3	112
+	^	3	113
+	.	3	112
+	+	3	112
+
+> ~/work/start.sh
+	*	1637912175	0
+	"	5	8
+	^	5	9
+	.	5	8
+	+	1	11
+	+	4	33
+	+	5	8
+
+> ~/java/neostudy/hello/hello.txt
+	*	1635791813	0
+	"	1	19
+	^	1	21
+	.	1	19
+	+	1	19
+
+> ~/java/neostudy/hello/HelloWorld.java
+	*	1635791298	0
+	"	3	35
+	^	3	36
+	.	3	35
+	+	2	41
+	+	5	0
+	+	4	0
+	+	3	37
+	+	1	6
+	+	3	35
+
+> ~/java/.gitignore
+	*	1634571453	0
+	"	25	5
+	^	25	6
+	.	25	5
+	+	61	11
+	+	57	0
+	+	25	5
+
+> ~/Загрузки/[software-testing.ru] Автоматизация тестов для REST API при помощи Postman (2021)/Тема 1. Первые тесты/ДЗ.txt
+	*	1633260984	0
+	"	1	0
+
+> ~/java/route256/exapmle1.java
+	*	1632670933	0
+	"	1	9
+	^	1	10
+	.	1	10
+	+	1	10
+
+> ~/test/stepik/linux/script/script2.sh
+	*	1628971141	0
+	"	6	35
+	^	6	36
+	.	6	35
+	+	6	35
+
+> ~/test/stepik/linux/script/script1.sh
+	*	1628970063	0
+	"	3	19
+	^	3	20
+	.	3	19
+	+	3	19
+
+> /opt/JetBrains Rider-2021.2/bin/rider.sh
+	*	1628084499	0
+	"	1	0
+
+> ~/log.txt
+	*	1627305408	0
+	"	9	4
+	^	9	5
+	.	9	4
+	+	9	4
+
+> /tmp/tutorfK69OX
+	*	1626359422	0
+	"	139	64
+	^	139	66
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1626359327	0
+	"	1	0
+
+> ~/Загрузки/SoapUI-x64-5.6.0.sh
+	*	1625729574	0
+	"	193	0
+
+> ~/Загрузки/NVIDIA-Linux-x86_64-460.84.run
+	*	1625319594	0
+	"	1	0
+
+> ~/Загрузки/prison_architect_linux/prison_architect_the_pen_6447_48132.sh
+	*	1625064031	0
+	"	1	0
+
+> ~/java/vodyanovdm-gmail-com/new-jcb/src/main/java/com/kovalevskyi/academy/codingbootcamp/week0/day3/Main.java
+	*	1624964287	0
+	"	18	1
+
+> /etc/apt/sources.list.d/thomas_tsai-ubuntu-ubuntu-tuxboot-focal.list
+	*	1622383913	0
+	"	1	68
+	^	1	69
+	.	1	68
+	+	1	68
+
+> /etc/samba/smb.conf
+	*	1621762477	0
+	"	241	0
+
+> /.zshrc
+	"	1	0
