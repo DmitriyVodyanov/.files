@@ -14,16 +14,5 @@ set backspace=indent,eol,start whichwrap+=<,>,[,]
 set showtabline=1
 set ruler
 filetype plugin indent off
-au VimEnter *  NERDTree
-
-
-
-
-
-
-
-
-
-
-
-
+autocmd VimEnter * NERDTree
+autocmd VimEnter * wincmd p
